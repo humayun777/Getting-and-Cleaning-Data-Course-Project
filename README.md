@@ -8,9 +8,9 @@ This repo was created by Mohammad Humayun Khan to finish the assignment for week
 ## Source Data
 The variables in the data X are sensor signals measured with waist-mounted smartphone from 30 subjects. The variable in the data Y indicates activity type the subjects performed during recording.
 The data used in this course project represent data collected from the accelerometers from the Samsung Galaxy S smartphone. 
-More information can be found at the data source website:
+- More information can be found at the data source website:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-The data for this project can be downloaded here:
+- The data for this project can be downloaded here:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 
